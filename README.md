@@ -22,7 +22,7 @@ JavaDoc https://apidoc.gitee.com/xchao/j-im/
  **1.聊天请求消息结构** 
  ```
 {
-    "from": "来源ID",
+    "from": "来源ID12323",
     "to": "目标ID",
     "cmd":"命令码(11)int类型",
     "createTime": "消息创建时间long类型",
